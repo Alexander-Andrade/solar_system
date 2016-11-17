@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+PyOpenGL 
+PyOpenGL_accelerate
+opencv-python
+numpy
+Pillow
+pyassimp
+pyglet
